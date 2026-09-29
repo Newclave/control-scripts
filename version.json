@@ -1,8 +1,8 @@
 {
-  "versionMinima": "1.0.0",
-  "versionActual": "1.0.0",
+  "versionMinima": "1.8.2",
+  "versionActual": "1.8.2",
   "bloquearVersionesAnteriores": true,
   "versionesBloqueadas": [],
-  "mensaje": "Esta version del script ha quedado obsoleta. Descargue e instale la version mas reciente.",
-  "urlActualizacion": "https://CAMBIAR-POR-LA-DIRECCION-DE-DESCARGA"
+  "mensaje": "Esta version del script ha quedado obsoleta. Descargua la version mas reciente.",
+  "urlActualizacion": "https://sermicro.sharepoint.com/sites/ANCERT"
 }
