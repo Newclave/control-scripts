@@ -4,7 +4,9 @@
   "versionMinimaBasico": "1.9.0",
   "versionActualBasico": "1.9.0",
   "bloquearVersionesAnteriores": true,
+  "bloquearVersionesAnterioresBasico": true,
   "versionesBloqueadas": [],
+  "versionesBloqueadasBasico": [],
   "mensaje": "Esta versión del script ha quedado obsoleta. ¡Descarga la versión más reciente!",
   "urlActualizacion": "https://sermicro.sharepoint.com/sites/ANCERT"
 }
