@@ -1,6 +1,8 @@
 {
   "versionMinima": "1.9.0",
   "versionActual": "1.9.0",
+  "versionMinimaBasico": "1.9.0",
+  "versionActualBasico": "1.9.0",
   "bloquearVersionesAnteriores": true,
   "versionesBloqueadas": [],
   "mensaje": "Esta versión del script ha quedado obsoleta. ¡Descarga la versión más reciente!",
