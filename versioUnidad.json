@@ -1,0 +1,9 @@
+{
+  "producto": "Generador_Unidades_Red",
+  "versionMinima": "1.0.0",
+  "versionActual": "1.0.0",
+  "bloquearVersionesAnteriores": true,
+  "versionesBloqueadas": [],
+  "mensaje": "Hay una versión más reciente del Generador de Unidades de Red. Descargue la versión autorizada antes de continuar.",
+  "urlActualizacion": "https://sermicro.sharepoint.com/sites/ANCERT"
+}
