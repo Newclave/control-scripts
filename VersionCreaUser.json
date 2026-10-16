@@ -1,7 +1,7 @@
 {
   "producto": "CREAR_USER_Windows",
-  "versionMinima": "1.0.0",
-  "versionActual": "1.0.0",
+  "versionMinima": "1.1.0",
+  "versionActual": "1.1.0",
   "bloquearVersionesAnteriores": true,
   "versionesBloqueadas": [],
   "mensaje": "Hay una versión más reciente de CREAR_USER_Windows. Descargue la versión autorizada antes de continuar.",
