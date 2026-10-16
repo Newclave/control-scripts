@@ -1,8 +1,8 @@
 {
-  "versionMinima": "1.9.2",
-  "versionActual": "1.9.2",
-  "versionMinimaBasico": "1.9.2",
-  "versionActualBasico": "1.9.2",
+  "versionMinima": "1.9.5",
+  "versionActual": "1.9.5",
+  "versionMinimaBasico": "1.9.5",
+  "versionActualBasico": "1.9.5",
   "bloquearVersionesAnteriores": true,
   "bloquearVersionesAnterioresBasico": true,
   "versionesBloqueadas": [],
