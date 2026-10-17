@@ -1,0 +1,18 @@
+{
+  "Backup_Configuracion_AGN": {
+    "versionMinima": "1.0.0",
+    "versionActual": "1.0.0",
+    "bloquearVersionesAnteriores": true,
+    "versionesBloqueadas": [],
+    "mensaje": "Esta versión del script ha quedado obsoleta. ¡Descarga la versión más reciente!",
+    "urlActualizacion": "https://sermicro.sharepoint.com/sites/ANCERT"
+  },
+  "Restore_Configuracion_AGN": {
+    "versionMinima": "1.0.0",
+    "versionActual": "1.0.0",
+    "bloquearVersionesAnteriores": true,
+    "versionesBloqueadas": [],
+    "mensaje": "Esta versión del script ha quedado obsoleta. ¡Descarga la versión más reciente!",
+    "urlActualizacion": "https://sermicro.sharepoint.com/sites/ANCERT"
+  }
+}
